@@ -1,0 +1,3 @@
+name: Test GUI
+version: '${project.version}'
+main: fr.kikyo.test.TestGUI
